@@ -7,7 +7,7 @@
 
 <script>
     export default {
-        name: 'Testcomponent',
+        name: 'test-component',
         data(){
             return {
                 subtitulo: 'Subtitulo'
